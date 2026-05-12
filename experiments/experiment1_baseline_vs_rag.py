@@ -1,6 +1,6 @@
 """
 experiments/experiment1_baseline_vs_rag.py
-───────────────────────────────────────────
+
 Experiment 1 — Baseline LLM vs RAG
 
 For each of 20 test questions, runs 6 configurations:
